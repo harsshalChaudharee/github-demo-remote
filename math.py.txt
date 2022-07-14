@@ -1,0 +1,22 @@
+#add Implementation
+def add(x,y);
+return x+y
+
+#substract Implementation
+def substract(x,y);
+return x-y		#on master Branch
+
+#multiply Implementation
+def multiply(x,y);
+return x*y		#On Bug456 Branch
+
+#divied Implementation
+def divied(x,y);
+if y==o; 			#On master branch
+return Divied_By_0_Error
+else
+return x/y
+
+#Squre Implenmtation
+def square(x);
+return x*X
