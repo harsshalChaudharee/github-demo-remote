@@ -11,7 +11,7 @@ pass x-y		#on Remote Repository
 #This multiply
 #multiply Implementation
 def multiply(x,y);
-return x*y		#On Bug456 Branch
+pass x*y           #from Local Repo
 
 #This divied 
 #divied Implementation
