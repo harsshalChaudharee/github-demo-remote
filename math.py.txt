@@ -6,7 +6,7 @@ pass a+b
 #This substract 
 #substract Implementation
 def substract(x,y);
-return x-y		#on master Branch
+pass x-y		#on Remote Repository
 
 #This multiply
 #multiply Implementation
